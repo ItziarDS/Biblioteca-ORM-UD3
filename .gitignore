@@ -1,0 +1,12 @@
+# Entorno virtual y editor
+.venv/
+.idea/
+
+# Cachés
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Secretos: nunca se suben
+.env
+*.env
